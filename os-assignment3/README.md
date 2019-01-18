@@ -1,8 +1,8 @@
-Question 2
+##Question 2
 
 To improve modularity, we've written two seperate applications: a server application (EchoServer.java), and a client applcation (EchoClient.java). The Server must be run first, and then the client application. The server should only be running as a single instance, but the client application can handle multiple instances. No adittional arguments need be passed at run time, except for conventional terminal usage (java EchoServer, java EchoClient). The client application can be exited by typing 'exit', while the server application can be exited by entering cmd+c.
 
-Deliverables
+##Deliverables
 
 The programs should be commented where necessary.
 
